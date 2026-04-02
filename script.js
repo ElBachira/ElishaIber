@@ -41,45 +41,90 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- 2. SISTEMA DE REPRODUCTOR DE MÚSICA ---
     const songs = [
         {
-            title: "Te Sigo Amando",
-            artist: "Juan Gabriel",
+            title: "Animals",
+            artist: "Maroon 5",
             src: "song.mp3", 
-            lyrics: `Que seas muy feliz
-Estés donde estés
-Cariño
-No importa que ya
-No vuelvas jamás
-Conmigo
-Deseo, mi amor
-Que sepas también
-Que te amo
-Que no te olvidé
-Que nunca podré
-Te extraño
-Que seas muy feliz
-Que encuentres amor
-Mi vida
-Que nunca, mi amor
-Te digan adiós
-Un día
-Perdóname, mi amor, por todo el tiempo que te amé, te hice daño
-Te amé de más y fue mi error, qué soledad, estoy sin ti, lo estoy pagando
-Que seas muy feliz
-Que seas muy feliz
-Mientras que yo
-Te sigo amando
-Deseo, mi amor
-Que sepas también
-Que te amo
-Que no te olvidé
-Que nunca podré
-Te extraño
-Perdóname, mi amor, por todo el tiempo que te amé, te hice daño
-Te amé de más y fue mi error, qué soledad, estoy sin ti, lo estoy pagando
-Que seas muy feliz
-Que seas muy feliz
-Mientras que yo
-¡Te sigo amando!`,
+            lyrics: `Nena, te voy a acechar esta noche
+Te cazaré y te comeré viva
+Tal como animales
+Animales
+Como anima-les
+Tal vez creas que puedes huir
+Huelo tu rastro a kilómetros de aquí
+Tal como animales
+Animales
+Como anima-les
+Nena, yo soy...
+¿Qué es lo que intentas hacerme a mí?
+No paramos, somos el peor rival
+Pero nos entendemos cuando estoy dentro de ti, eh
+Eres la droga que me hace morir
+Quise cortarte de raíz
+Pero me elevo tanto cuando estoy dentro de ti
+Sí, puedes empezar de nuevo, puedes correr
+Buscar otros peces en el mar también
+Puedes fingir que así debía ser
+Pero de mí no te vas a desprender
+Aún puedo oírte haciendo ese sonido
+Derribándome, rodando en el piso
+Puedes fingir que fui yo el que lo quiso
+Pero no, oh...
+Nena, te voy a acechar esta noche
+Te cazaré y te comeré viva
+Tal como animales
+Animales
+Como anima-les
+Tal vez creas que puedes huir
+Huelo tu rastro a kilómetros de aquí
+Tal como animales
+Animales
+Como anima-les
+Nena, yo soy...
+Si decido huir, no servirá
+Sigues en mi cabeza, no te vas
+Así que haz lo que quieras intentar, eh
+Amo tus mentiras, me las tragaré
+Pero no niegues al animal
+Que cobra vida cuando estoy dentro de ti
+Sí, puedes empezar de nuevo, puedes correr
+Buscar otros peces en el mar también
+Puedes fingir que así debía ser
+Pero de mí no te vas a desprender
+Aún puedo oírte haciendo ese sonido
+Derribándome, rodando en el piso
+Puedes fingir que fui yo el que lo quiso
+Pero no, oh...
+Nena, te voy a acechar esta noche
+Te cazaré y te comeré viva
+Tal como animales
+Animales
+Como anima-les
+Tal vez creas que puedes huir
+Huelo tu rastro a kilómetros de aquí
+Tal como animales
+Animales
+Como anima-les
+Nena, yo soy...
+No mientas más, más, más, más
+No puedes negar-gar-gar-gar
+A la bestia atrás, tras, tras, tras
+Yeah, yeah, yeah
+No mientas más, más, más, más
+No puedes negar-gar-gar-gar
+A la bestia atrás, tras, tras, tras
+Yeah, yeah, yeah
+Tal como animales
+Animales
+Como anima-les
+Justo como animales
+Animales
+Como anima-les
+(Ow!)
+Nena, te voy a acechar esta noche
+Te cazaré y te comeré viva
+Tal como animales
+Animales
+Como anima-les..`,
         }
     ];
 
